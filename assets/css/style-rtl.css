@@ -812,10 +812,10 @@ a,
 
 /* Forms common style */
 .form-control {
-  font-family: "Roboto Condensed", sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  font-size: 11px;
+  font-family: "Open Sans", sans-serif;
+  /* text-transform: uppercase; */
+  /* letter-spacing: 2px; */
+  font-size: 15px;
   height: 33px;
   border: 1px solid #EAEAEA;
   border-radius: 2px;
